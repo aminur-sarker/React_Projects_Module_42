@@ -1,6 +1,7 @@
 [
     {
       "id": 1,
+      "title": "Cooking Delicious Recipes",
       "cover_img": "https://i.ibb.co/3cTP7FQ/cityscape-with-seagulls-black-white-photo-with-film-grain-effect.jpg",
       "author_img": "https://i.ibb.co/41TtRB9/smiling-college-student-spending-time-cafe.jpg",
       "author_name": "Alice Smith",
@@ -10,6 +11,7 @@
     },
     {
       "id": 2,
+      "title": "Exploring the Great Outdoors",
       "cover_img": "https://i.ibb.co/3cTP7FQ/cityscape-with-seagulls-black-white-photo-with-film-grain-effect.jpg",
       "author_img": "https://i.ibb.co/5KKjnsW/confident-smiling-businesswoman-writing-notes.jpg",
       "author_name": "Bob Johnson",
@@ -19,6 +21,7 @@
     },
     {
       "id": 3,
+      "title": "Achieving Fitness Goals",
       "cover_img": "https://i.ibb.co/3cTP7FQ/cityscape-with-seagulls-black-white-photo-with-film-grain-effect.jpg",
       "author_img": "https://i.ibb.co/hMjnhHn/woman-using-tablet-making-notes.jpg",
       "author_name": "Eva Williams",
@@ -28,6 +31,7 @@
     },
     {
       "id": 4,
+      "title": "Innovations in Technology",
       "cover_img": "https://i.ibb.co/3cTP7FQ/cityscape-with-seagulls-black-white-photo-with-film-grain-effect.jpg",
       "author_img": "https://i.ibb.co/Z64zmQc/pretty-curly-young-woman-writing-notes-startup-project.jpg",
       "author_name": "David Brown",
@@ -37,6 +41,7 @@
     },
     {
       "id": 5,
+      "title": "Exploring Art and Creativity",
       "cover_img": "https://i.ibb.co/3cTP7FQ/cityscape-with-seagulls-black-white-photo-with-film-grain-effect.jpg",
       "author_img": "https://i.ibb.co/c3QwLt7/young-learner.jpg",
       "author_name": "Grace Miller",
